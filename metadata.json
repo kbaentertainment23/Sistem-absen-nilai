@@ -1,0 +1,10 @@
+{
+  "name": "Pencatat Absensi dan Nilai Siswa versi 2.8 (khusus admin tidak ada user)",
+  "description": "Aplikasi pelacak absensi harian, rekapitulasi bulanan, serta nilai formatif dan sumatif siswa yang terintegrasi dengan Google Sheets, kini disederhanakan khusus untuk Admin tanpa fitur ujian/CBT.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
